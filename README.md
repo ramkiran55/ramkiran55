@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ram Kiran
-- 👀 I’m interested in Data Science, more specifically on Machine Learning
-- 🌱 I’m currently learning ML modeling, data cleaning and analysing. 
+- 👋 Hi, I’m Ram Kiran, currenlty working as a Software Engineer at IVY Comptech. I predominantly work on Data Migration.
+- 👀 I’m interested in Data Science, more specifically on Machine Learning, AI and I my dream is to pursue masters in ds
+- 🌱 I’m currently learning ML modeling, data cleaning and analysis.
 
 
 <!---
