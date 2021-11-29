@@ -9,3 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Ram Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkiran55&hide=issues,contribs&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
