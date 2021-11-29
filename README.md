@@ -10,4 +10,14 @@ You can click the Preview link to take a look at your changes.
 
 [![Ram Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkiran55&hide=issues,contribs&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Applied-Data-Science-Capstone-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=ramkiran55.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Ventilator-Pressure-Prediction)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Digit-Recognizer-Project-Kaggle-Competition)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Deep-And-Machine-Learning-Experiments)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Age-Gender-Detection-Model)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Face-Mask-Detection)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Final-Project-Analyzing-Stock-Performance-and-Building-a-Dashboard)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Ecommerce-ApplicationUsing-JSPs-and-Servlets)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Uber_data_analysis)](https://github.com/anuraghazra/github-readme-stats)
