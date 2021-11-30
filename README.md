@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other to learn Deep Learning in a practical way.
+- 📫 How to reach me **ramkiran55.devireddy@gmail.com**
 - 🥅 2021 Goals: Contribute more to Open Source projects and dig deaper into Machine Learning.
 - ⚡ Fun fact: I love to read and write fictions.
 - 👀 I’m interested in becoming a full-fledged Data Sciencist by digging deap into the realm of deep learning, machine learning.
@@ -26,11 +27,11 @@
 <br />
 <br />
 
-[![Ram Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkiran55)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkiran55&show_icons=true&locale=en" alt="ramkiran55" /></p>
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkiran55&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkiran55&show_icons=true&locale=en&layout=compact" alt="ramkiran55" /></p><br />
 
 <br />
 
