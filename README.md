@@ -33,19 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkiran55&show_icons=true&locale=en&layout=compact" alt="ramkiran55" /></p><br />
 
-<br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Applied-Data-Science-Capstone-Project)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=ramkiran55.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Ventilator-Pressure-Prediction)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Digit-Recognizer-Project-Kaggle-Competition)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Deep-And-Machine-Learning-Experiments)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Age-Gender-Detection-Model)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Face-Mask-Detection)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Final-Project-Analyzing-Stock-Performance-and-Building-a-Dashboard)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Ecommerce-ApplicationUsing-JSPs-and-Servlets)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramkiran55&repo=Uber_data_analysis)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://ramkiran55.github.io/ramkirand/
 [kaggle]: https://www.kaggle.com/ramkiran55devireddy/
 [hackerrank]: https://www.hackerrank.com/160040195_KLU?hr_r=1
