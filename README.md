@@ -39,5 +39,3 @@
 [linkedin]: https://www.linkedin.com/in/ramkirand/
 [credly]: https://www.credly.com/users/devireddy-ram-kiran/badges
 
-
-Thanks for coming!
