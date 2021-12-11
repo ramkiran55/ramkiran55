@@ -38,3 +38,5 @@
 [hackerrank]: https://www.hackerrank.com/160040195_KLU?hr_r=1
 [linkedin]: https://www.linkedin.com/in/ramkirand/
 [credly]: https://www.credly.com/users/devireddy-ram-kiran/badges
+
+Thanks for coming!
