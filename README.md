@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other to learn Deep Learning in a practical way.
 - 📫 How to reach me **ramkiran55.devireddy@gmail.com**
-- 🥅 2021 Goals: Contribute more to Open Source projects and dig deaper into Machine Learning.
+- 🥅 2022 Goals: Contribute more to Open Source projects and dig deaper into Machine Learning.
 - ⚡ Fun fact: I love to read and write fictions.
 - 👀 I’m interested in becoming a full-fledged Data Sciencist by digging deap into the realm of deep learning, machine learning.
 
