@@ -24,7 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkiran55&show_icons=true&locale=en" alt="ramkiran55" /></p>
 
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkiran55&show_icons=true&locale=en&layout=compact" alt="ramkiran55" /></p><br />
 
 [website]: https://ramkiran55.github.io/ramkirand/
