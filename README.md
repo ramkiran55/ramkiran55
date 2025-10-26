@@ -54,16 +54,11 @@ This profile (`@ramkiran55`) showcases my public projects, learning experiments,
 ---
 
 ⭐️ *If you find any of my public projects useful, consider giving them a star!*
-<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkiran55&show_icons=true&locale=en" alt="ramkiran55" /></p>
-
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkiran55&show_icons=true&locale=en&layout=compact" alt="ramkiran55" /></p><br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevireddybloom&show_icons=true&locale=en" alt="rdevireddybloom" /></p>
-
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdevireddybloom&show_icons=true&locale=en&layout=compact" alt="rdevireddybloom" /></p><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkiran55&show_icons=true&locale=en&layout=compact" alt="ramkiran55" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdevireddybloom&show_icons=true&locale=en&layout=compact" alt="rdevireddybloom" /></p>
 
 [website]: https://ramkiran55.github.io/ramkirand/
 [kaggle]: https://www.kaggle.com/ramkiran55devireddy/
