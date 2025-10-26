@@ -4,30 +4,66 @@
 
 [![Website](https://img.shields.io/website?label=ramkirand&style=for-the-badge&url=https%3A%2F%2Framkiran55.github.io)](https://ramkiran55.github.io/ramkirand)
 
-## I'm an Engineer, Developer, and more importantly a Student!!
+💡 **Data Engineer | Cloud & ETL Developer | AWS & SQL Specialist**
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others to learn Software Engineering and Deep Learning in a practical way.
-- 📫 How to reach me **ramkiran.devireddy@gmail.com**
-- 📫 Most daily work is under @rdevireddybloom
-- 🥅 2022 Goals: Contribute more to Open Source projects and dig deaper into Machine Learning.
-- ⚡ Fun fact: I love to read and write fictions.
-- 👀 I’m interested in becoming a full-fledged Software Engineer by digging deap into the realm of Full stack Development.
+I’m a passionate Data Engineer focused on building scalable, automated data systems that make analytics faster, cleaner, and smarter.  
+Most of my day-to-day work happens under my **work account → [`@rdevireddybloom`](https://github.com/rdevireddybloom)** where I build AWS-based ETL frameworks, CI/CD pipelines, and Redshift data warehouses.  
+This profile (`@ramkiran55`) showcases my public projects, learning experiments, and open-source contributions.
 
-### Connect with me:
+---
 
-[<img align="left" alt="https://ramkiran55.github.io/ramkirand/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ramkiran55 | HACKERRANK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="ramkiran55 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ramkiran55 | KAGGLE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="ramkiran55 | KAGGLE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freelancer.svg" />][credly]
+### 🔧 Technologies & Tools I Use
+**Languages:** Python, SQL, T-SQL, Java, Shell, YAML  
+**Cloud:** AWS (Glue, Lambda, Redshift, S3, Step Functions, ECS, Fargate, Secrets Manager)  
+**ETL & Data Tools:** SSIS, Terraform, Docker, Kubernetes, GitHub Actions (CI/CD)  
+**Databases:** SQL Server, PostgreSQL, Redshift, MySQL, Oracle SQL, MongoDB  
+**Visualization:** Power BI, SSRS, QuickSight, Matplotlib  
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**Fetch Process – External File Ingestion Framework**](https://github.com/ramkiran55/fetch-process) | Configurable AWS Lambda + Glue system that fetches, decrypts, validates, and loads external data into Redshift. | Python, AWS Glue, Lambda, Redshift |
+| [**UsedCarCentral**](https://github.com/ramkiran55/UsedCarCentral) | Scalable web app with SQL Server backend and Flask API for 550K+ car listings and analytics dashboards. | Flask, SQL Server, GCP, Azure |
+| [**Anime CRP – Classifier, Recommender, Predictor**](https://github.com/ramkiran55/Anime_CRP) | Built KNN + K-Means recommender for 16K+ anime titles with association rule-based prediction. | Python, Pandas, KNN, ML |
+
+---
+
+### 📊 Combined Activity Graph
+*(Sum of activity from both @ramkiran55 and @rdevireddybloom)*  
+
+![Combined contributions](https://raw.githubusercontent.com/ramkiran55/contrib-combined/main/assets/combined-heatmap.svg)
+
+> *Heatmap updates automatically every day via GitHub Actions.*
+
+---
+
+### 🧠 Currently Exploring
+- AWS DataOps automation (Glue + Step Functions + CI/CD)
+- Containerized ETL frameworks (ECS + Fargate)
+- Data modeling and orchestration best practices
+
+---
+
+### 📫 Connect With Me
+📍 Bloomington, IN, USA  
+📧 [ramkiran.devireddy@gmail.com](mailto:ramkiran.devireddy@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ramkirand) • [GitHub Work Account](https://github.com/rdevireddybloom)
+
+---
+
+⭐️ *If you find any of my public projects useful, consider giving them a star!*
 <br />
-<br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkiran55&show_icons=true&locale=en" alt="ramkiran55" /></p>
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkiran55&show_icons=true&locale=en&layout=compact" alt="ramkiran55" /></p><br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdevireddybloom&show_icons=true&locale=en" alt="rdevireddybloom" /></p>
+
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdevireddybloom&show_icons=true&locale=en&layout=compact" alt="rdevireddybloom" /></p><br />
 
 [website]: https://ramkiran55.github.io/ramkirand/
 [kaggle]: https://www.kaggle.com/ramkiran55devireddy/
