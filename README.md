@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others to learn Software Engineering and Deep Learning in a practical way.
-- 📫 How to reach me **ramkiran55.devireddy@gmail.com**
+- 📫 How to reach me **ramkiran.devireddy@gmail.com**
+- 📫 Most daily work is under @rdevireddybloom
 - 🥅 2022 Goals: Contribute more to Open Source projects and dig deaper into Machine Learning.
 - ⚡ Fun fact: I love to read and write fictions.
 - 👀 I’m interested in becoming a full-fledged Software Engineer by digging deap into the realm of Full stack Development.
